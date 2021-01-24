@@ -1,0 +1,9 @@
+{
+  "leftRight:LeftRightInator": {
+    "NAME": "Ravage Pawn",
+    "FLAVOR": "grrr",
+    "DESCRIPTIONS": [
+      "Cards are casted with other cards now. NL Whenever you would gain [E] draw #b2 cards instead."
+    ]
+  }
+}
